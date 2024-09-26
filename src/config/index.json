@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Productos",
-        "description": "En Bolsos NAR, nos especializamos en la creación de bolsos elaborados a mano que combinan estilo y sostenibilidad. Cada uno de nuestros productos está cuidadosamente diseñado y fabricado con materiales de alta calidad, promoviendo una moda que respeta el medio ambiente y apoya el talento artesanal local.",
+        "description": "En un mundo donde la moda rápida y la producción en masa predominan, nace Bolsos NAR, una marca que trae alternativas únicas y significativas: bolsos hechos a mano con materiales reciclados. Utilizamos principalmente chapas recicladas, que, con sus vibrantes colores y diseños intrincados, se transforman en exquisitos patrones que adornan nuestros bolsos, creando piezas únicas. Cada uno de nuestros bolsos es una obra de arte única, cuidadosamente elaborada a mano. Nuestros materiales son tan especiales como nuestras técnicas de fabricación.",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Lo que representamos",
-        "description": "Creemos que la moda debe ser no solo hermosa, sino también responsable, por eso ponemos nuestro corazón en cada bolso que hacemos, asegurando que no solo luzcas bien, sino que también te sientas bien con tu elección. Descubre cómo la moda sostenible puede ser parte de tu día a día con Bolsos NAR.",
+        "description": "Nuestros bolsos no solo son accesorios de moda, sino también símbolos de sostenibilidad, creatividad y tradición. Nos inspiramos en la vitalidad de la vida urbana de la ciudad de Bogotá y la conexión espiritual con la naturaleza que se encuentra en todo el país. Estas influencias se reflejan en nuestros diseños, que capturan la esencia misma de Colombia y la llevan al mundo a través de nuestros bolsos únicos y auténticos. Descubre como la moda sostenible puede ser parte de tu día a día con nuestros bolsos NAR.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 310 2028377",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "bethcorreocentral@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@bolsos.nar",
         "icon": "/assets/images/insta.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "bolsos nar",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
